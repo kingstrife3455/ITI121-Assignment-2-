@@ -1,0 +1,27 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+openvino_prediction_0.jpg
+
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual Environments (OPTIONAL: If you have a venv folder, ignore it)
+venv/
+.env
+
+# Project Folders
+.ipynb_checkpoints/
+gradio/
+Raw Images/
+runs/
+Test_Run/
+wandb/
+
+
+# Heavy Model Weights (OPTIONAL: Block files >100MB)
+safari_project/
+safari_project_2nd_Iteration/
+*.pt
