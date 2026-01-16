@@ -1,0 +1,8 @@
+path: datasets/safari_project
+train: train/images
+val: valid/images
+
+nc: 2
+names:
+  0: buffalo
+  1: lion
